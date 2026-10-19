@@ -63,3 +63,10 @@ out/
 *.njsproj
 *.sln
 *.sw?
+
+# extra local env files, python envs, eval output
+.env.*
+!.env.example
+.venv/
+venv/
+eval-results/
