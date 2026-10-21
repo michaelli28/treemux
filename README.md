@@ -2,7 +2,7 @@
 
 TreeMux takes one task description and hands it to several AI coding agents at once. Each agent builds its own version of a web app in a cloud sandbox, pushes it to its own GitHub branch and gets its own Vercel deployment. When every agent is done, a panel of AI judges reviews the live sites (some judges use a real browser) and ranks them.
 
-Built at TreeHacks 2026 as a team project.
+Built at TreeHacks 2026 ([Devpost](https://devpost.com/software/treemux)) by João Pedro F. Barbosa, Jett Chen, Jolie Teo and Michael Li.
 
 ## How it works
 
